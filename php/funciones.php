@@ -1,6 +1,6 @@
 <?php
 function conectar(){
-	$conecta=mysqli_connect("localhost", "red_itq", "09141133", "red_itq");
+	$conecta=mysqli_connect("localhost", "red_itq", "10141002", "red_itq");
 	if(!$conecta) {echo "Error".mysqli_connect_error($conecta). "no.".mysqli_connect_errno($conecta);}
 	else {
 		return $conecta;
