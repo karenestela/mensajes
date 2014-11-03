@@ -17,7 +17,7 @@
  <a href="#" class="logo"></a>
   <p class="call">442-2274400<br /><span>ejemplo@comunicateITQ.com</span></p>
   <ul id="menu">
-   <li><a href="index.html">Inicio</a></li>
+   <li><a href="../index.php">Inicio</a></li>
    <li><a href="vermensjes.php">Mensajes</a></li>
    <li><a href="eventos.html">Eventos</a></li>
    <li><a href="ligas.html">Ligas</a></li>
